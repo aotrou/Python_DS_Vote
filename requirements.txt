@@ -1,1 +1,8 @@
+pandas
+numpy
+os 
+matplotlib
+geopandas
+pydeck
+csv
 
