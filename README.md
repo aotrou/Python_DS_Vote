@@ -4,7 +4,8 @@ Auteurs: *Yann Méar, Adrien Sorin, Arthur Bourgeois*
 Ce projet a pour but d'essayer d'estimer les facteurs influançant l'évolution du vote lors des éléctions dans le Finistère. En effet, ce département a connu (comme de nombreux départements) une droitisation de l'électorat. Nous allons essayer d'expliquer cette évolution grâce à de nombreuses données démographiques relatives au Finistère. Nous allons essayer de determiner si les corrélations sont en réalité des causalités et ainsi pouvoir expliquer ces évolutions.
 ## Problématique
 Quelles facteurs ont influancé l'évolution du vote dans le Finistère entre 2017 et 2022 ?
-
+## Modèles
+Les modèles utilisés sont principalement des regressions linéaires ainsi que des régressions logistiques afin de vérifier les causalités entre les variables.
 ## Les données
 Ce projet utilise principalement les données de l'étude menée par Julia Cagé et Thomas Piketty dont le livre est titré **<a href="https://www.unehistoireduconflitpolitique.fr/telecharger.html">"Histoire du conflit politique".**
 <div align="center">
