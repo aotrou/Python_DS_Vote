@@ -6,7 +6,7 @@ Ce projet a pour but d'essayer d'estimer les facteurs influançant l'évolution 
 Quelles facteurs ont influancé l'évolution du vote dans le Finistère entre 2017 et 2022 ?
 
 ## Les données
-Ce projet utilise principalement les données de l'étude menée par Julia Cagé et Thomas Piketty dont le livre est titré <a href="https://www.unehistoireduconflitpolitique.fr/telecharger.html">"Histoire du conflit politique"<\a>.
+Ce projet utilise principalement les données de l'étude menée par Julia Cagé et Thomas Piketty dont le livre est titré <a href="https://www.unehistoireduconflitpolitique.fr/telecharger.html">"Histoire du conflit politique".
 <div align="center">
   <img src="https://m.media-amazon.com/images/I/71f3oeekbsL.jpg" alt="Schema du projet" width="300"/>
 </div>
