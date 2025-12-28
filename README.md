@@ -6,3 +6,4 @@ Ce projet utilise principalement les données de l'étude menée par Julia Cagé
 <div align="center">
   <img src="https://m.media-amazon.com/images/I/71f3oeekbsL.jpg" alt="Schema du projet" width="300"/>
 </div>
+Nous avons aussi utilisé des cartes geojson du finistère ainsi que de ses circonscriptions. Toutes les données se trouvent dans le dossier intitulé "Données".
