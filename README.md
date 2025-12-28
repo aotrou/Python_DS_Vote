@@ -4,5 +4,5 @@ Ce projet a pour but d'essayer d'estimer les facteurs influançant l'évolution 
 ## Les données
 Ce projet utilise principalement les données de l'étude menée par Julia Cagé et Thomas Piketty dont le livre est titré "Histoire du conflit politique".
 <div align="center">
-  <img src="https://m.media-amazon.com/images/I/71f3oeekbsL.jpg" alt="Schema du projet" width="500"/>
+  <img src="https://m.media-amazon.com/images/I/71f3oeekbsL.jpg" alt="Schema du projet" width="300"/>
 </div>
