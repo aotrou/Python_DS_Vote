@@ -10,4 +10,5 @@ Ce projet utilise principalement les données de l'étude menée par Julia Cagé
 <div align="center">
   <img src="https://m.media-amazon.com/images/I/71f3oeekbsL.jpg" alt="Schema du projet" width="300"/>
 </div>
+Dans notre étude, nous utiliserons les bases de données sur les élections législatives de 2017 et de 2022. Ainsi qu'un certain nombre de base de données sur des variables socio-économiques telles que les catégories socio-professionnelles, le PIB, ou encore les crimes.
 Nous avons aussi utilisé des cartes geojson du finistère ainsi que de ses circonscriptions. Toutes les données se trouvent dans le dossier intitulé "Données".
