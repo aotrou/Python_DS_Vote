@@ -6,3 +6,6 @@ geopandas
 pydeck
 csv
 folium
+statsmodels
+bs4
+branca
