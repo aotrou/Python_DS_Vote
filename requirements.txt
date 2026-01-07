@@ -1,10 +1,9 @@
 pandas
 numpy
-os 
+requests
 matplotlib
 geopandas
 pydeck
-csv
 folium
 statsmodels
 bs4
