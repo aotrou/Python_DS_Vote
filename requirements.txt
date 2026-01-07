@@ -1,6 +1,5 @@
 pandas
 numpy
-requests
 matplotlib
 geopandas
 pydeck
@@ -8,3 +7,7 @@ folium
 statsmodels
 bs4
 branca
+# modules manquants:
+requests
+pdf2image
+kraken
